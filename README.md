@@ -3,11 +3,41 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
+## MY MOTIVATION
+
+> I can accept the failure but I can't accept not to try
+Mickeal Jordan
+
+## LANGUAGE:
+
+- ![](img/C_Programming_Language.svg)
+  ![](img/Arduino_Logo.svg)
+
+- ![](img/java-svgrepo-com.svg)
+  ![](img/android-original-wordmark.svg)
+  ![](img/Flutter.svg)
+
+- ![](img/php-original.svg)
+  ![](img/sqlserver.svg)
+  ![](img/mysql-original-wordmark.svg)
+
+- ![](img/html5-original-wordmark.svg)
+  ![](img/css3-original-wordmark.svg)
+  ![](img/javascript-original.svg)
+  ![](img/bootstrap-plain-wordmark.svg)
+
+- ![](img/git.svg)
+
+## TOOLS:
+
+![](img/photoshop-line.svg)
+![](img/ai.svg)
+
 ## CONTACT :
 
-- [LinkIn](https://www.linkedin.com/in/fenomanana-nomenjanahary)
-- [Facebook](https://web.facebook.com/raval.nomenjanahary)
-
+- [![LinkIn](img/linkedin.svg)](https://www.linkedin.com/in/fenomanana-nomenjanahary)
+- [![Facebook](img/linkedin.svg)](https://web.facebook.com/raval.nomenjanahary)
+        
 🙏🙏 Thanks for visiting my profile 😁😁
 
 <!---
