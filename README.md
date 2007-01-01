@@ -9,20 +9,21 @@
 
 > I can accept the failure but I can't accept not to try
 
-  - Mickeal Jordan -
+   Mickeal Jordan 
 
 ***
 
 ## LANGUAGE:
 
 - ![](img/C_Programming_Language.svg)
-  ![](img/Arduino_Logo.svg)
+  ![](img/arduino-seeklogo.com.svg)
 
 - ![](img/java-svgrepo-com.svg)
   ![](img/android-original-wordmark.svg)
   ![](img/Flutter.svg)
 
 - ![](img/php-original.svg)
+  ![](img/symfony-seeklogo.com.svg)
   ![](img/sqlserver.svg)
   ![](img/mysql-original-wordmark.svg)
 
@@ -45,7 +46,7 @@
 ## CONTACT :
 
 - [![LinkIn](img/linkedin.svg)](https://www.linkedin.com/in/fenomanana-nomenjanahary)
-- [![Facebook](img/Facebook-f_Logo-Blue-Logo.wine.svg)](https://web.facebook.com/raval.nomenjanahary  "Pseudo: Fenomanana Nomenjanahary")
+- [![Facebook](img/facebook-icon.svg)](https://web.facebook.com/raval.nomenjanahary  "Pseudo: Fenomanana Nomenjanahary")
 
 ***
         
