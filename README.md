@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FenomananaN
+- 👋 Hi, I’m Fenomanana NOMENJANAHARY
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,7 +8,7 @@
 - [LinkIn](https://www.linkedin.com/in/fenomanana-nomenjanahary)
 - [Facebook](https://web.facebook.com/raval.nomenjanahary)
 
-Thanks for visiting my profile 😁😁
+🙏🙏 Thanks for visiting my profile 😁😁
 
 <!---
 FenomananaN/FenomananaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
