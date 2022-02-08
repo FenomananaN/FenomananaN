@@ -9,7 +9,7 @@
 
 > I can accept the failure but I can't accept not to try
 
-  * Mickeal Jordan *
+  - Mickeal Jordan -
 
 ***
 
