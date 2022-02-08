@@ -3,11 +3,15 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
+***
+
 ## MY MOTIVATION
 
 > I can accept the failure but I can't accept not to try
 
-Mickeal Jordan
+* Mickeal Jordan *
+
+***
 
 ## LANGUAGE:
 
@@ -29,15 +33,21 @@ Mickeal Jordan
 
 - ![](img/git.svg)
 
+***
+
 ## TOOLS:
 
 ![](img/photoshop-line.svg)
 ![](img/ai.svg)
 
+***
+
 ## CONTACT :
 
 - [![LinkIn](img/linkedin.svg)](https://www.linkedin.com/in/fenomanana-nomenjanahary)
 - [![Facebook](img/Facebook-f_Logo-Blue-Logo.wine.svg)](https://web.facebook.com/raval.nomenjanahary  "Pseudo: Fenomanana Nomenjanahary")
+
+***
         
 🙏🙏 Thanks for visiting my profile 😁😁
 
